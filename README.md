@@ -1,4 +1,4 @@
-# Atom X Bitcoin V2 (Private Key Hunting and Crack Hack)
+# Atom X Bitcoin V2 (Private Key Hunting and Crack)
 ## Hunt and Crack Hack Private Key Bitcoin On Cpu Saver Mod with Free Node AtomicWallet
 
 
@@ -25,7 +25,7 @@ pool.map(thread, range(8))
 ```
 ---
 
-### Running Script (Atom X Bitcoin) CPU SAVER MOD :
+### Running Script (Atom X Bitcoin V2) CPU SAVER MOD :
 
 After installing and changed Thread Core in Script Can Running On Windows : `python AtomXBitcoin_TRIAL.py`
 
