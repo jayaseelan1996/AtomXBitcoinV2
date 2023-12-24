@@ -23,7 +23,7 @@ from multiprocessing.pool import ThreadPool
 import threading
 import base58
 import ecdsa
-import requests
+import request
 import os
 import subprocess
 import base58
